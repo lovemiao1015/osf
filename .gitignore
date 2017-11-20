@@ -1,0 +1,17 @@
+*.class
+
+# Package Files #
+*.war
+*.ear
+*.log
+*.DS_Store
+
+/.idea/
+/target
+/.settings/
+.classpath
+.project
+.springBeans
+readme.md
+LICENSE
+*.iml
